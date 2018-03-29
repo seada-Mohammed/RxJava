@@ -1,3 +1,4 @@
+SEADA MOHAMMED
 # RxJava: Reactive Extensions for the JVM
 
 <a href='https://travis-ci.org/ReactiveX/RxJava/builds'><img src='https://travis-ci.org/ReactiveX/RxJava.svg?branch=2.x'></a>
@@ -581,7 +582,6 @@ Further details on building can be found on the [Getting Started](https://github
 
 For bugs, questions and discussions please use the [Github Issues](https://github.com/ReactiveX/RxJava/issues).
 
- 
 ## LICENSE
 
     Copyright (c) 2016-present, RxJava Contributors.
